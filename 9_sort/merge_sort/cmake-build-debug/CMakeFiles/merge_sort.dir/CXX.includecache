@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Notes/program/algrithm/PlayWithDataStructureSourceCode/9_sort/merge_sort/main.cpp
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+io.h
+-
+math.h
+-
+time.h
+-
+
